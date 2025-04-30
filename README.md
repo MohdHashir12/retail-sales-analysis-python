@@ -36,5 +36,3 @@ To run this project:
 - Evening hours showed peak transaction volume.
 - Marketing focus is recommended on high-rating, low-sales products for potential growth.
 
-## 📜 License
-This project is open-source and available under the MIT License.
